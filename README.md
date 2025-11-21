@@ -12,6 +12,6 @@ Building my portfolio website with Next.js and TypeScript
 **Backend:** Express, Supabase, SQL
 
 ## Connect
-**LinkedIn:** [LinkedIn/andre-schmidt](https://www.linkedin.com/in/andre-schmidt-85b67a2b2) 
-**Portfolio:** coming soon
+**LinkedIn:** [LinkedIn/andre-schmidt](https://www.linkedin.com/in/andre-schmidt-85b67a2b2)  
+**Portfolio:** Coming soon
 
