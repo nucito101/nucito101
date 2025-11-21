@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Andre 👋
 
-<!--
-**nucito101/nucito101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web Developer focused on Backend and Fullstack Development.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Building my portfolio website with Next.js and TypeScript
+- Job hunting for remote junior developer positions (available January 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Express, Supabase, SQL  
+**Tools:** Git, VS Code
+
+## 📫 Reach Me
+- LinkedIn: [www.linkedin.com/in/andre-schmidt-85b67a2b2]
+- Portfolio: Coming soon
+
+---
+💡 Fresh bootcamp graduate eager to contribute and learn in a professional dev team
