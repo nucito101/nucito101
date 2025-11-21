@@ -1,6 +1,6 @@
 # Hi, I'm Andre 👋
 
-Junior Web Developer focused on Backend and Fullstack Development.
+Junior Web Developer focused on Frontend and Fullstack Development.
 
 ## 🚀 Currently Working On
 - Building my portfolio website with Next.js and TypeScript
