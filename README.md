@@ -1,19 +1,15 @@
 # Hi, I'm Andre 👋
 
-Junior Web Developer focused on Frontend and Fullstack Development.
+I'm a junior web developer based in Germany.
+I'm building my skills in fullstack development and actively looking for my first remote developer role starting January 2026
+I recently completed a 6-month fullstack bootcamp called "AI Webapp Solution Engineer" at supercode, and now I'm building projects to sharpen my skills and land that first dev job.
 
-## 🚀 Currently Working On
+##  Currently Working On
 - Building my portfolio website with Next.js and TypeScript
-- Job hunting for remote junior developer positions (available January 2026)
 
-## 🛠️ Tech Stack
-**Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-**Backend:** Express, Supabase, SQL  
-**Tools:** Git, VS Code
+My main tech stack is **React, TypeScript, Tailwind CSS, and Next.js**. On the backend, I work with **Node.js, Express, Supabase, and SQL**.
 
-## 📫 Reach Me
+## Check out my pinned projects below, and my
 - LinkedIn: [www.linkedin.com/in/andre-schmidt-85b67a2b2]
 - Portfolio: Coming soon
 
----
-💡 Fresh bootcamp graduate eager to contribute and learn in a professional dev team
